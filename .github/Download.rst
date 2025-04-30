@@ -1,7 +1,7 @@
 Download Instructions:
 ========
 
-`CLICK TO DOWNLOAD <https://github.com/user-attachments/files/19849302/RQ.zip>`_
+`CLICK TO DOWNLOAD <https://github.com/user-attachments/files/19973502/RLauncherQ.zip>`_
 
 
 1. Download the archive from the link above.
